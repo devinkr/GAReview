@@ -17,6 +17,7 @@
 * Array Methods - https://github.com/devinkr/js-array-methods
   - Array Methods Lab - https://github.com/devinkr/js-array-methods-lab
   - [PM Zoom Recording](https://generalassembly.zoom.us/rec/share/coVv1b_MOWkpPZnFxcziUvjnEkuIBpxXSpjap1Cz1KyRc0bv0tLgU2eLSgOD2hlh.Pu9NIwpAoVu525Zi?startTime=1652733135000)
+  - Array Methods Homework - https://github.com/devinkr/array-methods-homework
 
 * DOM - https://github.com/devinkr/js-dom
   - DOM Practice - https://github.com/devinkr/js-dom-practice
